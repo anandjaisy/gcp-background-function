@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: fete.bird
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, google-cloud-function, gradle, http-client-test, jackson-databind, java, junit, logback, micronaut-build, properties, readme, shade]
